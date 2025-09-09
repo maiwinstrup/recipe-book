@@ -17,7 +17,7 @@
 ## Instructions
 
 1. **Prepare the Fruits:**
-   - Wash all the fruits thoroughly under running water.
+   - Wash all the fruits thoroughly under cold running water.
    - Hull and halve the strawberries.
    - Halve the grapes.
    - Slice the banana.
