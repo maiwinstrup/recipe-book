@@ -5,6 +5,7 @@
 - Eggs
 - Flour
 - Sugar
+- Milk
 - Other stuff
 
 
